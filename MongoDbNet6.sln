@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbNet6", "MongoDbNet6\MongoDbNet6.csproj", "{62DA46E5-618D-4336-95DE-94021038343E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DA46E5-618D-4336-95DE-94021038343E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DA46E5-618D-4336-95DE-94021038343E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DA46E5-618D-4336-95DE-94021038343E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DA46E5-618D-4336-95DE-94021038343E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F3438B-EB7F-4C0D-B031-DE88DD8BDB6C}
+	EndGlobalSection
+EndGlobal
